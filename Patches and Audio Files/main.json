@@ -1,0 +1,138 @@
+{
+	"pattrstorage" : 	{
+		"name" : "main",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"feedbackControl" : [ 10000 ],
+					"filterCenter" : [ 1886.043772087544312 ],
+					"filterQ" : [ 1.340235584557163 ],
+					"flangeCenter" : [ 57.319114638229784 ],
+					"flangeRate" : [ 0.108622687330315 ],
+					"flangeRegen" : [ 0.697637795275592 ],
+					"flangeWidth" : [ 606.622605768002927 ],
+					"live.gain~[1]" : [ -24.908975601196289 ],
+					"live.gain~[2]" : [ -4.364724409448812 ],
+					"live.gain~[3]" : [ 1.354613038400501 ],
+					"live.gain~[4]" : [ -70.0 ],
+					"live.gain~[5]" : [ -2.019999999999992 ],
+					"mungerGrainSeperation" : [ 0.400000005960464 ],
+					"mungerGrainSize" : [ 400.0 ],
+					"mungerPitchFactor" : [ 1.0 ],
+					"mungerPitchVar" : [ 4.0 ],
+					"mungerRateVariation" : [ 213.0 ],
+					"mungerSizeVar" : [ 4000.0 ],
+					"mungerStereoSpread" : [ 1.0 ],
+					"noteMax" : [ 0.0 ],
+					"noteMin" : [ 0.0 ],
+					"noteMinMaxToggle" : [ 0 ],
+					"noteTime" : [ 5000 ],
+					"noteMax[1]" : [  ],
+					"noteMin[1]" : [  ],
+					"bp.Gigaverb::Damp" : [ 0.7 ],
+					"bp.Gigaverb::Dry" : [ 1.0 ],
+					"bp.Gigaverb::Early" : [ 0.25 ],
+					"bp.Gigaverb::Regen" : [ 0.5 ],
+					"bp.Gigaverb::Size" : [ 74.999999999999972 ],
+					"bp.Gigaverb::Spread" : [ 23.0 ],
+					"bp.Gigaverb::Tail" : [ 0.25 ],
+					"bp.Gigaverb::Time" : [ 11.0 ],
+					"bp.Gigaverb::bypass" : [ 0.0 ],
+					"patcher::flanger::bypass" : [ 0.0 ],
+					"patcher::flanger[1]::bypass" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"feedbackControl" : [ 10000 ],
+					"filterCenter" : [ 1886.043772087544312 ],
+					"filterQ" : [ 1.340235584557163 ],
+					"flangeCenter" : [ 57.319114638229784 ],
+					"flangeRate" : [ 0.001097889231553 ],
+					"flangeRegen" : [ 0.398425196850396 ],
+					"flangeWidth" : [ 7091.194778830765244 ],
+					"live.gain~[1]" : [ -24.908975601196289 ],
+					"live.gain~[2]" : [ -4.364724409448812 ],
+					"live.gain~[3]" : [ 1.354613038400501 ],
+					"live.gain~[4]" : [ -70.0 ],
+					"live.gain~[5]" : [ -5.919999999999997 ],
+					"mungerGrainSeperation" : [ 0.400000005960464 ],
+					"mungerGrainSize" : [ 400.0 ],
+					"mungerPitchFactor" : [ 1.0 ],
+					"mungerPitchVar" : [ 4.0 ],
+					"mungerRateVariation" : [ 213.0 ],
+					"mungerSizeVar" : [ 4000.0 ],
+					"mungerStereoSpread" : [ 1.0 ],
+					"noteMax" : [ 0.0 ],
+					"noteMin" : [ 0.0 ],
+					"noteMinMaxToggle" : [ 0 ],
+					"noteTime" : [ 5000 ],
+					"noteMax[1]" : [  ],
+					"noteMin[1]" : [  ],
+					"bp.Gigaverb::Damp" : [ 0.7 ],
+					"bp.Gigaverb::Dry" : [ 1.0 ],
+					"bp.Gigaverb::Early" : [ 0.25 ],
+					"bp.Gigaverb::Regen" : [ 0.5 ],
+					"bp.Gigaverb::Size" : [ 74.999999999999972 ],
+					"bp.Gigaverb::Spread" : [ 23.0 ],
+					"bp.Gigaverb::Tail" : [ 0.25 ],
+					"bp.Gigaverb::Time" : [ 11.0 ],
+					"bp.Gigaverb::bypass" : [ 0.0 ],
+					"patcher::flanger::bypass" : [ 0.0 ],
+					"patcher::flanger[1]::bypass" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"feedbackControl" : [ 10000 ],
+					"filterCenter" : [ 7162.254324508639002 ],
+					"filterQ" : [ 1.046232065184077 ],
+					"flangeCenter" : [ 1711.978423956847564 ],
+					"flangeRate" : [ 0.0 ],
+					"flangeRegen" : [ 0.039370078740157 ],
+					"flangeWidth" : [ 2432.540980154184126 ],
+					"live.gain~[1]" : [ -24.908975601196289 ],
+					"live.gain~[2]" : [ -6.643149606299218 ],
+					"live.gain~[3]" : [ 1.354613038400501 ],
+					"live.gain~[4]" : [ -70.0 ],
+					"live.gain~[5]" : [ 0.0 ],
+					"mungerGrainSeperation" : [ 2.0 ],
+					"mungerGrainSize" : [ 42.0 ],
+					"mungerPitchFactor" : [ 1.0 ],
+					"mungerPitchVar" : [ 4.0 ],
+					"mungerRateVariation" : [ 265.0 ],
+					"mungerSizeVar" : [ 278.0 ],
+					"mungerStereoSpread" : [ 1.0 ],
+					"noteMax" : [ 0.0 ],
+					"noteMin" : [ 0.0 ],
+					"noteMinMaxToggle" : [ 0 ],
+					"noteTime" : [ 5000 ],
+					"noteMax[1]" : [  ],
+					"noteMin[1]" : [  ],
+					"bp.Gigaverb::Damp" : [ 0.7 ],
+					"bp.Gigaverb::Dry" : [ 1.0 ],
+					"bp.Gigaverb::Early" : [ 0.25 ],
+					"bp.Gigaverb::Regen" : [ 0.5 ],
+					"bp.Gigaverb::Size" : [ 74.999999999999972 ],
+					"bp.Gigaverb::Spread" : [ 23.0 ],
+					"bp.Gigaverb::Tail" : [ 0.25 ],
+					"bp.Gigaverb::Time" : [ 11.0 ],
+					"bp.Gigaverb::bypass" : [ 0.0 ],
+					"patcher::flanger::bypass" : [ 0.0 ],
+					"patcher::flanger[1]::bypass" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
