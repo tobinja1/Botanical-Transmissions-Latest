@@ -1,0 +1,13 @@
+autowatch = 1;
+
+var myDict = new Dict("weather");
+
+function parseDict()
+{
+    var dataAsString = myDict.get("body");
+
+    var parsedDict = new Dict("parsedweather");
+
+    parsedDict.parse(dataAsString);
+    outlet(0, parsedDict);
+}
