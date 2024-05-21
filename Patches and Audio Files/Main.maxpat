@@ -5240,7 +5240,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ -597.0, 237.0, 1807.0, 564.0 ],
+						"rect" : [ -608.0, 238.0, 1807.0, 564.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -5290,7 +5290,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1147.0, 425.0, 50.0, 36.0 ],
-									"text" : "1.706019"
+									"text" : "1.831257"
 								}
 
 							}
@@ -7644,7 +7644,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 673.0, 48.0, 50.0, 36.0 ],
-									"text" : "1.167781"
+									"text" : "1.19679"
 								}
 
 							}
@@ -11818,7 +11818,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ -227.0, 168.0, 1624.0, 791.0 ],
+						"rect" : [ 38.0, 91.0, 691.0, 568.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -11854,8 +11854,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 735.0, 178.0, 22.0 ],
-									"text" : "buffer~ windSlow windSlow.wav"
+									"patching_rect" : [ 30.0, 735.0, 177.0, 22.0 ],
+									"text" : "buffer~ windSlow Windnew.wav"
 								}
 
 							}
@@ -11867,8 +11867,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 705.0, 173.0, 22.0 ],
-									"text" : "buffer~ windFast windFast.wav"
+									"patching_rect" : [ 30.0, 705.0, 174.0, 22.0 ],
+									"text" : "buffer~ windFast Windnew.wav"
 								}
 
 							}
@@ -11879,8 +11879,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 671.0, 233.0, 22.0 ],
-									"text" : "buffer~ vaporPressure vaporPressure.wav"
+									"patching_rect" : [ 30.0, 671.0, 289.0, 22.0 ],
+									"text" : "buffer~ vaporPressure VaporPressureDeficitnew.wav"
 								}
 
 							}
@@ -11917,8 +11917,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 571.0, 194.0, 22.0 ],
-									"text" : "buffer~ tempWarm tempWarm.wav"
+									"patching_rect" : [ 30.0, 571.0, 224.0, 22.0 ],
+									"text" : "buffer~ tempWarm Temperaturenew.wav"
 								}
 
 							}
@@ -11929,8 +11929,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 541.0, 180.0, 22.0 ],
-									"text" : "buffer~ tempCold tempCold.wav"
+									"patching_rect" : [ 30.0, 541.0, 217.0, 22.0 ],
+									"text" : "buffer~ tempCold Temperaturenew.wav"
 								}
 
 							}
@@ -11941,8 +11941,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 507.0, 173.0, 22.0 ],
-									"text" : "buffer~ solarRad solarRad.wav"
+									"patching_rect" : [ 30.0, 507.0, 225.0, 22.0 ],
+									"text" : "buffer~ solarRad SolarRadiationnew.wav"
 								}
 
 							}
@@ -11966,8 +11966,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 442.0, 197.0, 22.0 ],
-									"text" : "buffer~ pressureLo pressureLo.wav"
+									"patching_rect" : [ 30.0, 442.0, 207.0, 22.0 ],
+									"text" : "buffer~ pressureLo Pressurenew.wav"
 								}
 
 							}
@@ -11979,8 +11979,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 412.0, 193.0, 22.0 ],
-									"text" : "buffer~ pressureHi pressureHi.wav"
+									"patching_rect" : [ 30.0, 412.0, 205.0, 22.0 ],
+									"text" : "buffer~ pressureHi Pressurenew.wav"
 								}
 
 							}
@@ -11991,8 +11991,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 380.0, 207.0, 22.0 ],
-									"text" : "buffer~ precipitation precipitation.wav"
+									"patching_rect" : [ 30.0, 380.0, 229.0, 22.0 ],
+									"text" : "buffer~ precipitation Precipitationnew.wav"
 								}
 
 							}
@@ -12003,8 +12003,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 350.0, 121.0, 22.0 ],
-									"text" : "buffer~ ndvi ndvi.wav"
+									"patching_rect" : [ 30.0, 350.0, 322.0, 22.0 ],
+									"text" : "buffer~ ndvi NormalizedDifferenceVegetationIndexnew.wav"
 								}
 
 							}
@@ -12015,8 +12015,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 316.0, 209.0, 22.0 ],
-									"text" : "buffer~ leafWetness leafWetness.wav"
+									"patching_rect" : [ 30.0, 316.0, 234.0, 22.0 ],
+									"text" : "buffer~ leafWetness LeafWetnessnew.wav"
 								}
 
 							}
@@ -12051,8 +12051,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 221.0, 194.0, 22.0 ],
-									"text" : "buffer~ heatStress HeatStress.wav"
+									"patching_rect" : [ 30.0, 221.0, 215.0, 22.0 ],
+									"text" : "buffer~ heatStress HeatStressnew.wav"
 								}
 
 							}
@@ -12089,8 +12089,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 118.0, 237.0, 22.0 ],
-									"text" : "buffer~ dewPointTemp DewPointTemp.wav"
+									"patching_rect" : [ 30.0, 118.0, 296.0, 22.0 ],
+									"text" : "buffer~ dewPointTemp DewPointTemperaturenew.wav"
 								}
 
 							}
@@ -12101,8 +12101,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 83.0, 181.0, 22.0 ],
-									"text" : "buffer~ cropEvap CropEvap.wav"
+									"patching_rect" : [ 30.0, 83.0, 275.0, 22.0 ],
+									"text" : "buffer~ cropEvap CropEvapotranspirationnew.wav"
 								}
 
 							}
@@ -12113,8 +12113,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 53.0, 201.0, 22.0 ],
-									"text" : "buffer~ chloroIndex chloroIndex.wav"
+									"patching_rect" : [ 30.0, 53.0, 250.0, 22.0 ],
+									"text" : "buffer~ chloroIndex ChlorophyllIndexnew.wav"
 								}
 
 							}
@@ -12125,8 +12125,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 23.0, 213.0, 22.0 ],
-									"text" : "buffer~ canopyTemp canopyTemp.wav"
+									"patching_rect" : [ 30.0, 23.0, 275.0, 22.0 ],
+									"text" : "buffer~ canopyTemp CanopyTemperaturenew.wav"
 								}
 
 							}
