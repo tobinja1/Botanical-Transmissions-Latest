@@ -5290,7 +5290,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1147.0, 425.0, 50.0, 36.0 ],
-									"text" : "1.831257"
+									"text" : "1.872584"
 								}
 
 							}
@@ -6973,7 +6973,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 517.0, 368.0, 550.0, 544.0 ],
+						"rect" : [ 253.0, 315.0, 550.0, 544.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -7001,6 +7001,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-96",
@@ -7644,7 +7645,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 673.0, 48.0, 50.0, 36.0 ],
-									"text" : "1.19679"
+									"text" : "1.206614"
 								}
 
 							}
@@ -11846,6 +11847,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"color" : [ 0.937254901960784, 0.596078431372549, 0.333333333333333, 1.0 ],
@@ -11892,8 +11894,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 636.0, 270.0, 22.0 ],
-									"text" : "buffer~ totalSunlightSlow totalSunlightSLOW.wav"
+									"patching_rect" : [ 30.0, 636.0, 217.0, 22.0 ],
+									"text" : "buffer~ totalSunlightSlow solarRad.wav"
 								}
 
 							}
@@ -11905,8 +11907,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "float", "bang" ],
-									"patching_rect" : [ 30.0, 606.0, 261.0, 22.0 ],
-									"text" : "buffer~ totalSunlightFast totalSunlightFAST.wav"
+									"patching_rect" : [ 30.0, 606.0, 215.0, 22.0 ],
+									"text" : "buffer~ totalSunlightFast solarRad.wav"
 								}
 
 							}
